@@ -11,6 +11,7 @@ function App() {
       <Navbar />
     </section>
     <Main />
+    <Testimonial />
     <Contact />
     </>
 
