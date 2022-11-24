@@ -13,9 +13,9 @@ const Navbar = () => {
         <h1 className="text-xl">Welcome</h1>
         {/* Navbar */}
         <nav className="hidden md:ml-auto md:flex flex-wrap items-center justify-center text-base tracking-wide">
-        <button>
+        {/* <button>
                   <BsFillMoonStarsFill onclick={() => setDarkMode(!darkmode)} className="cursor-pointer text-2xl" />
-                </button> 
+                </button>  */}
        <ul className="flex items-center">
                
               <li><a className="bg-yellow-500 text-white px-4 py-2 rounded-md ml-8" href="#">Home</a></li>
