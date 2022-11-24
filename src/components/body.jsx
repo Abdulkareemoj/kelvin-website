@@ -67,9 +67,9 @@ export default function Hero() {
           images={[
             {
               largeURL:
-                'https://drive.google.com/file/d/11kadeNdHat84NOtvyJiu5ZZaPFluW3is/view?usp=share_link',
+                'https://res.cloudinary.com/dcc1yy1zv/image/upload/v1669306068/cld-sample-5.jpg',
               thumbnailURL:
-                'https://drive.google.com/file/d/11kadeNdHat84NOtvyJiu5ZZaPFluW3is/view?usp=share_link',
+                'https://res.cloudinary.com/dcc1yy1zv/image/upload/v1669306068/cld-sample-5.jpg',
               width: 1875,
               height: 2500,
             },
