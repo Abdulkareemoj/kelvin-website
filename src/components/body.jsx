@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 // import { render } from 'react-dom';
 import { AiFillFacebook, AiFillInstagram, AiFillLinkedin, AiFillTwitterCircle, AiOutlineWhatsApp } from 'react-icons/ai';
 
