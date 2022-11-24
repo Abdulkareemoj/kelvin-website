@@ -1,5 +1,6 @@
+import React from 'react';
 
-// import pic from '../../images/profile.jpg';
+import pic from '../assets/images/profile.jpg';
 
 export default function Testimonial() {
     return (
@@ -17,7 +18,7 @@ export default function Testimonial() {
               <img
                 src= {pic}
                 className="rounded-full w-24 h-24 shadow-lg"
-                alt="smaple image"
+                alt="smaple"
                 width={24}
                 height={24}
               />
@@ -34,7 +35,7 @@ export default function Testimonial() {
               <img
                 src={pic}
                 className="rounded-full w-24 h-24 shadow-lg"
-                alt="smaple image"
+                alt="smaple"
               />
             </div>
             <p className="text-gray-500">- Teresa May</p>
@@ -49,7 +50,7 @@ export default function Testimonial() {
               <img
                 src={pic}
                 className="rounded-full w-24 h-24 shadow-lg"
-                alt="smaple image"
+                alt="smaple"
               />
             </div>
             <p className="text-gray-500">- Kate Allise</p>
