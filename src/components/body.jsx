@@ -67,9 +67,9 @@ export default function Hero() {
           images={[
             {
               largeURL:
-                'https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg',
+                'https://drive.google.com/file/d/11kadeNdHat84NOtvyJiu5ZZaPFluW3is/view?usp=share_link',
               thumbnailURL:
-                'https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg',
+                'https://drive.google.com/file/d/11kadeNdHat84NOtvyJiu5ZZaPFluW3is/view?usp=share_link',
               width: 1875,
               height: 2500,
             },
