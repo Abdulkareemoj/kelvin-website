@@ -1,10 +1,15 @@
-import React from 'react';
-
 export default function Contact() {
     return (
-
-
+     
         <section className="mb-32 text-gray-800">
+               <div className="text-center py-2">
+        <h2 className="text-3xl py-2 font-medium">Want to hire me?</h2>
+        <h3 className="text-1xl py-2">Send a message or reach out on any of my socials</h3>
+        <h3 className="text-1xl py-2">Im always eager to work with clients</h3>
+      </div>
+    
+
+
 
             <div className="relative overflow-hidden bg-no-repeat bg-cover" />
             <div className="container text-gray-800 px-4 md:px-12">

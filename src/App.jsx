@@ -8,9 +8,7 @@ import Testimonial from './components/testimonial';
 function App() {
   return (
     <div>
-    <section className="bg-white px-10">
-      <Navbar />
-    </section>
+
     <Main />
     <Testimonial />
     <Contact />
@@ -19,5 +17,4 @@ function App() {
 
   );
 }
-
 export default App;

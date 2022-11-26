@@ -67,9 +67,9 @@ export default function Hero() {
           images={[
             {
               largeURL:
-                'https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg',
+                'https://res.cloudinary.com/dcc1yy1zv/image/upload/v1669306068/cld-sample-5.jpg',
               thumbnailURL:
-                'https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg',
+                'https://res.cloudinary.com/dcc1yy1zv/image/upload/v1669306068/cld-sample-5.jpg',
               width: 1875,
               height: 2500,
             },
@@ -100,13 +100,7 @@ export default function Hero() {
       </section>
 
     
-      <div className="text-center py-2">
-        <h2 className="text-3xl py-2 font-medium">Want to hire me?</h2>
-        <h3 className="text-1xl py-2">Send a message or reach out on any of my socials</h3>
-        <h3 className="text-1xl py-2">Im always eager to work with clients</h3>
-      </div>
     
-
     </main>
     
   </div>
