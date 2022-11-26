@@ -8,7 +8,7 @@ import Testimonial from './components/testimonial';
 function App() {
   return (
     <div>
-
+<Navbar />
     <Main />
     <Testimonial />
     <Contact />
