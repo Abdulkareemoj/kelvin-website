@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import * as ReactDOM from 'react-dom';
 import { DarkModeSwitch } from "react-toggle-dark-mode";
 
 import useDarkMode from './useDarkMode';
