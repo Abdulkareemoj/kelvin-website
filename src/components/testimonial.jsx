@@ -1,3 +1,4 @@
+import React from 'react';
 
 import pic from '../assets/images/profile.jpg';
 

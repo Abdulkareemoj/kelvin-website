@@ -1,4 +1,7 @@
+import React from 'react';
+
 import Switcher from './darkModeToggle';
+
 
 export default function Navbar() {
     return (
