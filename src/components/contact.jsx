@@ -13,8 +13,7 @@ export default function Contact() {
 
 
 
-            {/* <div className="relative overflow-hidden bg-no-repeat bg-cover" />
-            <div className="container text-gray-800 px-4 md:px-12">
+            <div className=" text-gray-800 px-4 md:px-12">
                 <div className="block rounded-lg shadow-lg py-10 md:py-12 px-2 md:px-6">
                     <div className="flex flex-wrap">
                         <div className="grow-0 shrink-0 basis-auto w-full xl:w-5/12 px-3 lg:px-6 mb-12 xl:mb-0">
@@ -175,7 +174,7 @@ ease-in-out">Send</button>
                         </div>
                     </div>
                 </div>
-            </div> */}
+            </div> 
 
         </section>
 

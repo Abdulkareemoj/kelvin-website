@@ -6,7 +6,7 @@ export default function Navbar() {
         <section>
           
             <header className="md:sticky top-0 z-10">
-                <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
+                <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center py-5">
                     <a href="#about" className="ml-3 text-xl">
                         Welcome
                     </a>
