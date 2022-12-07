@@ -3,7 +3,7 @@ import React from 'react';
 export default function Contact() {
     return (
      
-        <section className="mb-32 text-gray-800">
+        <section>
                <div className="text-center py-2">
         <h2 className="text-3xl py-2 font-medium">Want to hire me?</h2>
         <h3 className="text-1xl py-2">Send a message or reach out on any of my socials</h3>
@@ -13,7 +13,7 @@ export default function Contact() {
 
 
 
-            <div className="relative overflow-hidden bg-no-repeat bg-cover" />
+            {/* <div className="relative overflow-hidden bg-no-repeat bg-cover" />
             <div className="container text-gray-800 px-4 md:px-12">
                 <div className="block rounded-lg shadow-lg py-10 md:py-12 px-2 md:px-6">
                     <div className="flex flex-wrap">
@@ -175,7 +175,7 @@ ease-in-out">Send</button>
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> */}
 
         </section>
 
