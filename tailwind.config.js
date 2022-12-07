@@ -5,8 +5,11 @@ module.exports = {
     './src/**/*.jsx',
     './src/index.html'
   ],
+  plugins: [
+    require('@tailwindcss/forms')
+  ],
   theme: {
     extend: {}
   },
-  darkMode: 'class' 
-};
+  darkMode: 'class'
+  };

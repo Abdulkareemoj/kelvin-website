@@ -2,6 +2,7 @@ import React from 'react';
 
 import Main from './components/body';
 import Contact from './components/contact';
+import Footer from "./components/footer";
 import Navbar from './components/navbar';
 import Testimonial from './components/testimonial';
 
@@ -12,6 +13,7 @@ function App() {
     <Main />
     <Testimonial />
     <Contact />
+    <Footer />
     </div>
 
 
