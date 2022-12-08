@@ -1,5 +1,5 @@
 // import { PhoneIcon } from '@heroicons/24/outline';
-import React from 'react';
+
 import { AiFillPhone } from 'react-icons/ai';
 
 
@@ -51,7 +51,7 @@ export default function Contact() {
             </dl>
             <p className="mt-6 text-base text-gray-500">
               Looking for careers?{' '}
-              <a href="#" className="font-medium text-gray-700 underline">
+              <a href="http://" className="font-medium text-gray-700 underline">
                 View all job openings
               </a>
               .

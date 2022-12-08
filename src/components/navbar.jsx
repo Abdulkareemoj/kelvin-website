@@ -1,11 +1,12 @@
-import React from 'react';
 
+import { BsFillMoonStarsFill } from 'react-icons/bs';
 
 export default function Navbar() {
     return (
-        <section>
+        <section className=" px-10">
+
           
-            <header className="md:sticky top-0 z-10">
+            {/* <header className="md:sticky top-0 z-10">
                 <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center py-5">
                     <a href="#about" className="ml-3 text-xl">
                         Welcome
@@ -21,7 +22,19 @@ export default function Navbar() {
                         Testimonials
                     </a>
                 </div>
-            </header>
+            </header> */}
+     
+     <nav className="py-10 mb-12 flex justify-between">
+        <h1 className="text-xl">
+            Welcome
+        </h1>
+        <ul className="flex items-center">
+            <li><BsFillMoonStarsFill /></li>
+            <li><a className="bg-yellow-500 text-white px-4 py-2 rounded-md ml-8" href="http://">Hire Me!</a></li>
+            <li><a className=" bg-yellow-500 text-white px-4 py-2 rounded-md ml-8" href="http://"> Testimonials</a></li>
+        </ul>
+     </nav>
+     
         </section>
     );
 }

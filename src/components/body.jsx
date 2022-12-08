@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { AiFillFacebook, AiFillInstagram, AiFillLinkedin, AiFillTwitterCircle, AiOutlineWhatsApp } from 'react-icons/ai';
 
 import Gallery from './SimpleGallery';
@@ -7,7 +7,7 @@ export default function Hero() {
   return (
   
     <div>
-      <main className="bg-white px-10 py-5">
+      <main className="bg-white px-10 py-0.5">
   
 
       <section>
