@@ -8,7 +8,7 @@ import Testimonial from './components/testimonial';
 
 function App() {
   return (
-    <div>
+    <div className="bg-white px-10 py-0.5">
 <Navbar />
     <Main />
     <Testimonial />

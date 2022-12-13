@@ -7,7 +7,7 @@ export default function Hero() {
   return (
   
     <div>
-      <main className="bg-white px-10 py-0.5">
+      <main >
   
 
       <section>

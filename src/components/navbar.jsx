@@ -3,7 +3,7 @@ import { BsFillMoonStarsFill } from 'react-icons/bs';
 
 export default function Navbar() {
     return (
-        <section className=" px-10">
+        <section>
 
           
             {/* <header className="md:sticky top-0 z-10">
@@ -31,7 +31,7 @@ export default function Navbar() {
         <ul className="flex items-center">
             <li><BsFillMoonStarsFill /></li>
             <li><a className="bg-yellow-500 text-white px-4 py-2 rounded-md ml-8" href="http://">Hire Me!</a></li>
-            <li><a className=" bg-yellow-500 text-white px-4 py-2 rounded-md ml-8" href="http://"> Testimonials</a></li>
+           
         </ul>
      </nav>
      
