@@ -57,7 +57,7 @@ export default function Hero() {
 
         <section>
 
-          <h2 className="text-3xl py-5 px-8" >Here&apos;s some of my work</h2>
+          <h2 className="text-3xl py-5 px-8 text-center" >Here&apos;s some of my work</h2>
         
           <div>
             
